@@ -3,7 +3,7 @@
 A simple yet effective Python GUI application built with Selenium and Tkinter to automate the process of logging into the LPU MyClass portal and navigating to the class/meeting page at a user-defined schedule.
 
  
-*(Optional: Replace with a screenshot of your application's GUI)*
+
 
 ---
 
@@ -71,6 +71,8 @@ Before you begin, ensure you have the following installed:
     -   In the "Schedule Time (HH:MM)" box, enter the time you want the script to run (e.g., `08:55` for an 8:55 AM login).
     -   Click the `▶️ Start Scheduler` button.
     -   The application will now monitor the time and execute the login automatically when the scheduled time is reached.
+    -   <img width="613" height="564" alt="image" src="https://github.com/user-attachments/assets/bde7def7-a3fb-4656-8f19-101874aab904" />
+
 
 5.  **Stop the Scheduler:**
     -   To cancel a scheduled task, simply click the `⏹️ Stop` button.
